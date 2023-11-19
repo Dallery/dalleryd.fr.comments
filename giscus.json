@@ -1,3 +1,6 @@
 {
-  "origins": ["https://blog.dalleryd.fr"],
+    "origins": ["https://blog.dalleryd.fr"],
+    "originsRegex": [
+      "http://localhost:[0-9]+"
+  ]
 }
